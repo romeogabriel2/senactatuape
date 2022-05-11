@@ -22,3 +22,6 @@ fase + fase 0.03
 
 Testar as tensões eletricas no cabo (corrente alternada)
 OBS: Fase + Neutro, fase + terra, neutro + terra mmm
+fase + neutro = 120
+fase +terra = 121.6
+neutro + terra =00.4
