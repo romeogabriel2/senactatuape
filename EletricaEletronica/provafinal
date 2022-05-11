@@ -1,0 +1,24 @@
+testar as tensões eletricas da tomada (corrente alternada)
+OBS: Fase + neutro, fase + terra, Neutro + fase 
+RESULTADOS:
+fase + terra = 120.1
+fase + neutro = 119.3
+neutro + fase = 119.4
+
+Testar a continuidade do cabo de força (teste de diodo)
+Obs: fase com fase, neutro com neutro, terra com terra (fora da tomada)
+Resultados:
+fase + fase = 000
+neutro + neutro = 000
+terra + terra =000
+
+Testar a resistencia do cabo de força (teste de 200 Ohms)
+OBS: Fase com Fase, neutro com neutro, terra com terra (fora da tomada)
+Resultados:
+neutro + neutro 0.06
+terra + terra =0.02
+fase + fase 0.03
+
+
+Testar as tensões eletricas no cabo (corrente alternada)
+OBS: Fase + Neutro, fase + terra, neutro + terra mmm
