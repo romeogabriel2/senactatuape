@@ -25,3 +25,7 @@ OBS: Fase + Neutro, fase + terra, neutro + terra mmm
 fase + neutro = 120
 fase +terra = 121.6
 neutro + terra =00.4
+
+testando a fonte no testador de fonte: 
+Resultados:
+-12v = 11.9 / +12v2 = 12.0 / SVSB =5.0 / PG = 280 +SV = 4.9 / +12V1 = 12.0 +3.3 = 3.3 
