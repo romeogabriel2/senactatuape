@@ -19,4 +19,4 @@ sudo apt update <-- atualizar a lista do apt
   sudo apt install psensor
   sudo apt install p7zip-full p7zip-rar
   sudo apt install kazam
-  sudo init 0
+  sudo init 0 <-- fecha o linux 
