@@ -1,0 +1,53 @@
+  sudo apt update <-- atualizar a lista do apt 
+ 
+  sudo apt upgrade <-- atualiza todos os software
+ 
+  sudo apt full-upgrade <-- atualiza todos os software
+                           atualização completa
+
+  sudo apt dist - upgrade <-- atualiza o sistema operacional
+                            Kernel						   
+
+  sudo apt autoremove <-- remoção de software não mais necessário 
+
+  sudo apt autoclean <-- fazer a limpeza do sistema
+
+  sudo reboot <-- reiniciar
+  
+  sudo apt install <-- instalar aplicativos
+  
+  sudo apt install psensor
+  sudo apt install p7zip-full p7zip-rar
+  sudo apt install kazam
+  sudo init 0
+
+  git clone = clonar um repositorio remoto
+  
+  git pull = atualizar um repositorio local
+  
+  git config = global user.name (usuario de commint 
+
+  qualquer arquivo na cor azul se refere no diretório 
+
+  qualquer palavra na cor branco se refere ao arquivo
+  
+  qualquer palavra com a cor azul claro é um link simbólico 
+
+  git add . = (adicionar as mudanças)
+  
+  git commit -m = "atualizacao (confirmar as mudanças)
+
+  git config = global user.email (usuario de acesso)
+
+  git config = list (listar as configurações)
+  
+  qualquer palavra com a cor azul é diretorio 
+  
+  qualquer palavra com a cor branca é arquivos
+  
+  qualquer palavra com a cor vermelha é arquivo compactado
+  
+  qualquer palavra com a cor azul claro é link simbólico 
+  
+  mkdir -v faz varios diretorios de uma vez
+  							
